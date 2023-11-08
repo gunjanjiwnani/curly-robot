@@ -1,1 +1,1 @@
-# curly-robot
+[![Build Status](https://dev.azure.com/bandofboyz1/bandofboyz1/_apis/build/status%2Fgunjanjiwnani.curly-robot?branchName=main)](https://dev.azure.com/bandofboyz1/bandofboyz1/_build/latest?definitionId=1&branchName=main)
